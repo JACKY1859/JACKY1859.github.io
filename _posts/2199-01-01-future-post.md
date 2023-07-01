@@ -8,4 +8,7 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.
+
+Test, test, test...
+I feel it so hard to make an academic website on my own.
