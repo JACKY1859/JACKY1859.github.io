@@ -1,7 +1,7 @@
 ---
 title: "Seiberg-Witten Invariants of Symplectic Manifolds"
-collection: writings
-permalink: /writings/2023-01-12-paper-Seiberg-Witten
+collection: publications
+permalink: /publications/2023-01-12-paper-Seiberg-Witten
 excerpt: 'This is a thesis written under the guidance of Professor Jianfeng Lin. It is a part of Tsinghua Xuetang Talents Program.'
 date: 2023-01-12
 venue: #'Journal 1'
