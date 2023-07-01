@@ -221,7 +221,7 @@ defaults:
   # _writings
   - scope:
       path: ""
-      type: publications
+      type: writings
     values:
       layout: single
       author_profile: true
