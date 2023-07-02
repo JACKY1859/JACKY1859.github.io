@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Here is **Yujie Lin (Jacky, 林毓杰)**.
+Here is **Yujie Lin**.
 
-I am a senior majoring in **Mathematics** at Department of Mathematical Sciences, Tsinghua University. I'll start to study for a PhD degree in **Pure Mathematics** at Qiuzhen College, Tsinghua University in August, 2023.
+I'll begin to study for a PhD degree in **Pure Mathematics** at Qiuzhen College, Tsinghua University in September, 2023.
 
 ## Research Interests
 
