@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Here is **Yujie Lin**.
-
-I'll begin to study for a PhD degree in **Pure Mathematics** at Qiuzhen College, Tsinghua University in September, 2023.
+I'm Yujie Lin, a PhD student at Qiuzhen College, Tsinghua University，advised by Jianfeng Lin.  
 
 ## Research Interests
 
-My bachelor thesis focuses on diffeomorphism group of K3 surfaces. Currently, my interests are on **low dimensional topology**.
+My research interests lie in low-dimensional topology and symplectic topology, with a particular focus on smooth 4-manifolds, gauge theory, diffeomorphism and symplectomorphism groups, and symplectic dynamics.
 
