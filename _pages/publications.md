@@ -27,7 +27,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 1.2em;">
-    <strong>Seiberg--Witten Invariants of Symplectic Manifolds</strong><br>
+    <strong>Seiberg–Witten Invariants of Symplectic Manifolds</strong><br>
     Expository notes, 2023.
   </li>
 </ol>
