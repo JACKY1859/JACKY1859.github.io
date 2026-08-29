@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yujie Lin, a PhD student at Qiuzhen College, Tsinghua University，advised by Jianfeng Lin.  
+I'm Yujie Lin, a PhD student at Qiuzhen College, Tsinghua University, advised by Jianfeng Lin.  
 
 ## Research Interests
 
