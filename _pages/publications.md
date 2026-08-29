@@ -34,7 +34,7 @@ author_profile: true
   </li>
 </ol>
 
-<h2>Expository Notes</h2>
+<h2>Expository Writings</h2>
 
 <ol>
   <li style="margin-bottom: 1.2em;">
