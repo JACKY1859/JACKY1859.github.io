@@ -20,7 +20,6 @@ author_profile: true
   <strong>{{ post.title }}</strong><br>
    {% endif %}
     {% if post.venue %}{{ post.venue }}{% endif %}
-    {% if post.location %}, {{ post.location }}{% endif %}
     {% if post.date %}. {{ post.date | date: "%B %Y" }}.{% endif %}
   </li>
 {% endfor %}
