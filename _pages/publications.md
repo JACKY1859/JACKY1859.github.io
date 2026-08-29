@@ -22,12 +22,12 @@ author_profile: true
 
 <ol>
   <li style="margin-bottom: 1.2em;">
-    <strong>Inflation Techniques in Symplectic 4-Manifolds</strong><br>
-    Expository notes, 2026.
+    <strong>K3曲面微分同胚群的代数与拓扑结构</strong><br>
+    Undergraduate thesis, 2023.
   </li>
 
   <li style="margin-bottom: 1.2em;">
-    <strong>An Introduction to Seiberg–Witten Theory</strong><br>
-    Expository notes, 2025.
+    <strong>Seiberg--Witten Invariants of Symplectic Manifolds</strong><br>
+    Expository notes, 2023.
   </li>
 </ol>
