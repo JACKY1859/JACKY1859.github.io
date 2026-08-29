@@ -18,6 +18,22 @@ author_profile: true
 {% endfor %}
 </ol>
 
+<h2>Interdisciplinary Research</h2>
+
+<ol>
+  <li style="margin-bottom: 1.2em;">
+    <strong>Chattering Phenomena in Time-Optimal Control for High-Order Chain-of-Integrator Systems With Full State Constraints</strong><br>
+    Yunan Wang, Chuxiong Hu, Zeyang Li, <strong>Yujie Lin</strong>, Shize Lin, and Suqin He.<br>
+    <em>IEEE Transactions on Automatic Control</em>, 2025.
+  </li>
+
+  <li style="margin-bottom: 1.2em;">
+    <strong>A Novel State-Centric Necessary Condition for Time-Optimal Control of Controllable Linear Systems Based on Augmented Switching Laws</strong><br>
+    Yunan Wang, Chuxiong Hu, <strong>Yujie Lin</strong>, Zeyang Li, Shize Lin, and Suqin He.<br>
+    <em>IEEE Transactions on Automatic Control</em>, 2025.
+  </li>
+</ol>
+
 <h2>Expository Notes</h2>
 
 <ol>
