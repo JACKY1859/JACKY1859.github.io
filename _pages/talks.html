@@ -16,7 +16,9 @@ author_profile: true
 <ol>
 {% for post in site.talks reversed %}
   <li style="margin-bottom: 1.2em;">
-    <strong>{{ post.title }}</strong><br>
+   {% if post.title and post.title != "" %}
+  <strong>{{ post.title }}</strong><br>
+   {% endif %}
     {% if post.venue %}{{ post.venue }}{% endif %}
     {% if post.location %}, {{ post.location }}{% endif %}
     {% if post.date %}. {{ post.date | date: "%B %Y" }}.{% endif %}
