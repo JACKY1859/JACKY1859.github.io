@@ -34,7 +34,7 @@ author_profile: true
   </li>
 </ol>
 
-<h2>Expository Writings</h2>
+<!-- <h2>Expository Writings</h2>
 
 <ol>
   <li style="margin-bottom: 1.2em;">
@@ -46,4 +46,4 @@ author_profile: true
     <strong>Seiberg–Witten Invariants of Symplectic Manifolds</strong><br>
     Expository notes, 2023.
   </li>
-</ol>
+</ol> -->
