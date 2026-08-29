@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I'm Yujie Lin, a PhD student at Qiuzhen College, Tsinghua University, advised by Jianfeng Lin.  
+[Curriculum Vitae](/files/Yujie_Lin_CV.pdf)
 
 ## Research Interests
 
