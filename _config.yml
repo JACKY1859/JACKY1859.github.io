@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yujie Lin"
   avatar           : "miao.png"
-  bio              : "Wir müssen wissen. Wir werden wissen."
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "lyj23@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JACKY1859"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
